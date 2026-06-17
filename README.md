@@ -55,5 +55,5 @@ These projects were built independently as hands-on practice. I used AI assistan
 
 ## Contact
 
-- **GitHub:** [github.com/pratik1055](https://github.com/YOUR_USERNAME)
+- **GitHub:** https://github.com/pratik1055/alteryx-data-projects
 - **LinkedIn:** (www.linkedin.com/in/pratikdeshmukhuk)
