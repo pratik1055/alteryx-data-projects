@@ -56,4 +56,4 @@ These projects were built independently as hands-on practice. I used AI assistan
 ## Contact
 
 - **GitHub:** [github.com/pratik1055](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [linkedin.com/in/pratikdeshmukhuk](https://linkedin.com/in/YOUR_PROFILE)
+- **LinkedIn:** [www.linkedin.com/in/pratikdeshmukhuk](https://linkedin.com/in/YOUR_PROFILE)
